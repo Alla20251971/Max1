@@ -1,1 +1,1 @@
-Crypto Project
+MAX1
